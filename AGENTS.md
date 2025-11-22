@@ -18,6 +18,10 @@ This repository contains a collection of reusable prompts for AI coding agents. 
 **Location**: `./planning/brain-stormer.md`  
 **Use when**: Generating ideas, exploring solutions, creative problem-solving, feature ideation. Can be helpful if the user isn't entirely sure what they want yet and needs help.
 
+#### Domain Driven Design
+**Location**: `./planning/domain-driven-design.md`  
+**Use when**: Defining domain models, identifying bounded contexts, understanding business domains, creating domain model specifications. Use when starting a new project or refactoring to clarify the domain model.
+
 ### Building
 
 #### Code Reviewer
