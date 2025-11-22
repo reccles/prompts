@@ -98,3 +98,15 @@ When you're ready to explain the idea back:
 5. **Success Criteria**: How we'd know it worked
 
 Keep it simple. If you can't explain it simply, you don't understand it well enough yet—ask another question.
+
+### Saving the Output
+
+After explaining the idea back and confirming understanding, you may create a `brain-stormer.spec.md` file in the project root (or ask the user where they'd like it) to capture the clarified idea. This file can serve as input for other prompts like `planning/design-document.md`. 
+
+The file should contain:
+- The core idea and problem statement
+- Target users and use cases
+- Key requirements and constraints
+- Success criteria
+
+This helps preserve the brainstorming work and makes it available for future design work.

@@ -22,6 +22,10 @@ This repository contains a collection of reusable prompts for AI coding agents. 
 **Location**: `./planning/domain-driven-design.md`  
 **Use when**: Defining domain models, identifying bounded contexts, understanding business domains, creating domain model specifications. Use when starting a new project or refactoring to clarify the domain model.
 
+#### Design Document
+**Location**: `./planning/design-document.md`  
+**Use when**: Creating a design document for a solution. Use after you have a domain model and a clear problem to solve. Creates a design.spec.md that describes why, what, and how using the Amazon document writing approach.
+
 ### Building
 
 #### Code Reviewer
