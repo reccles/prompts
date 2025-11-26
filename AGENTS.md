@@ -10,9 +10,9 @@ This repository contains a collection of reusable prompts for AI coding agents. 
 
 ### Planning
 
-#### Sprint Planner
-**Location**: `./planning/sprint-planner.md`  
-**Use when**: Converting a component of a design into a focused chunk of work. 
+#### Feature
+**Location**: `./planning/feature.md`  
+**Use when**: Converting a component of a design into a focused GitHub issue. Creates concise, well-sized feature issues that prevent context window saturation and overwhelming code reviews. 
 
 #### Brain Stormer
 **Location**: `./planning/brain-stormer.md`  
